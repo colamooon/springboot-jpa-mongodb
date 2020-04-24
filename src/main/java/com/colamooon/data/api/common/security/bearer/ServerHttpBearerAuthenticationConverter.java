@@ -19,9 +19,9 @@
  */
 package com.colamooon.data.api.common.security.bearer;
 
-import io.thevita.data.api.common.security.jwt.AuthorizationHeaderPayload;
-import io.thevita.data.api.common.security.jwt.JWTCustomVerifier;
-import io.thevita.data.api.common.security.jwt.UsernamePasswordAuthenticationBearer;
+import com.colamooon.data.api.common.security.jwt.AuthorizationHeaderPayload;
+import com.colamooon.data.api.common.security.jwt.JWTCustomVerifier;
+import com.colamooon.data.api.common.security.jwt.UsernamePasswordAuthenticationBearer;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.Authentication;
 import org.springframework.web.server.ServerWebExchange;

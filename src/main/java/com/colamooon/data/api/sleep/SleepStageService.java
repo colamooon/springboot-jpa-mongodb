@@ -1,10 +1,10 @@
 package com.colamooon.data.api.sleep;
 
-import io.thevita.data.api.common.model.ActiveType;
-import io.thevita.data.api.sleep.exception.SleepStageNotFoundException;
-import io.thevita.data.api.sleep.model.SleepStage;
-import io.thevita.data.api.sleep.view.SleepStageView;
-import io.thevita.data.api.sleep.view.SleepStageViews;
+import com.colamooon.data.api.common.model.ActiveType;
+import com.colamooon.data.api.sleep.exception.SleepStageNotFoundException;
+import com.colamooon.data.api.sleep.model.SleepStage;
+import com.colamooon.data.api.sleep.view.SleepStageView;
+import com.colamooon.data.api.sleep.view.SleepStageViews;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

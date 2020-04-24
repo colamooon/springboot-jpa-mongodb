@@ -1,7 +1,7 @@
 package com.colamooon.data.api.common.config;
 
-import io.thevita.data.api.common.security.bearer.BearerTokenReactiveAuthenticationManager;
-import io.thevita.data.api.common.security.bearer.ServerHttpBearerAuthenticationConverter;
+import com.colamooon.data.api.common.security.bearer.BearerTokenReactiveAuthenticationManager;
+import com.colamooon.data.api.common.security.bearer.ServerHttpBearerAuthenticationConverter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

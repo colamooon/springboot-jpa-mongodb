@@ -1,7 +1,7 @@
 package com.colamooon.data.api.sample;
 
-import io.thevita.data.api.sample.model.Sample;
-import io.thevita.data.api.sample.view.SampleView;
+import com.colamooon.data.api.sample.model.Sample;
+import com.colamooon.data.api.sample.view.SampleView;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.PageImpl;

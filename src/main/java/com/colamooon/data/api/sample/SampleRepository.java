@@ -1,6 +1,6 @@
 package com.colamooon.data.api.sample;
 
-import io.thevita.data.api.sample.model.Sample;
+import com.colamooon.data.api.sample.model.Sample;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import reactor.core.publisher.Flux;

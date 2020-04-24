@@ -1,8 +1,8 @@
 package com.colamooon.data.api.sample;
 
-import io.thevita.data.api.common.exception.ErrorMessageCode;
-import io.thevita.data.api.sample.exception.SampleValidException;
-import io.thevita.data.api.sample.view.SampleView;
+import com.colamooon.data.api.common.exception.ErrorMessageCode;
+import com.colamooon.data.api.sample.exception.SampleValidException;
+import com.colamooon.data.api.sample.view.SampleView;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Component;

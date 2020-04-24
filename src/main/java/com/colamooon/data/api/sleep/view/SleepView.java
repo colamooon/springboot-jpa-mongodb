@@ -1,7 +1,7 @@
 package com.colamooon.data.api.sleep.view;
 
-import io.thevita.data.api.common.model.ActiveType;
-import io.thevita.data.api.common.model.BaseView;
+import com.colamooon.data.api.common.model.ActiveType;
+import com.colamooon.data.api.common.model.BaseView;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.experimental.SuperBuilder;

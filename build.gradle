@@ -21,8 +21,13 @@ configurations {
 repositories {
     mavenCentral()
 }
-
+bootJar {
+    launchScript()
+}
 dependencies {
+    implementation 'com.nimbusds:nimbus-jose-jwt:8.4'
+    implementation 'org.apache.commons:commons-lang3'
+
     implementation 'org.springframework.boot:spring-boot-starter-data-mongodb-reactive'
     implementation 'org.springframework.boot:spring-boot-starter-security'
     implementation 'org.springframework.boot:spring-boot-starter-webflux'

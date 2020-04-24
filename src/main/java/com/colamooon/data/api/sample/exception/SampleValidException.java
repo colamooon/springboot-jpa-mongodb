@@ -1,7 +1,7 @@
 package com.colamooon.data.api.sample.exception;
 
-import io.thevita.data.api.common.exception.ColaException;
-import io.thevita.data.api.common.exception.ErrorMessageCode;
+import com.colamooon.data.api.common.exception.ColaException;
+import com.colamooon.data.api.common.exception.ErrorMessageCode;
 import org.springframework.http.HttpStatus;
 
 public class SampleValidException extends ColaException {

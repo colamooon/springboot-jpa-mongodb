@@ -1,7 +1,7 @@
 package com.colamooon.data.api.sleep;
 
-import io.thevita.data.api.common.exception.ErrorMessageCode;
-import io.thevita.data.api.sleep.view.SleepViews;
+import com.colamooon.data.api.common.exception.ErrorMessageCode;
+import com.colamooon.data.api.sleep.view.SleepViews;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.access.prepost.PreAuthorize;

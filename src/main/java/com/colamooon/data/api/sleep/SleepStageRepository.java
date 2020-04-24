@@ -1,7 +1,7 @@
 package com.colamooon.data.api.sleep;
 
-import io.thevita.data.api.common.model.ActiveType;
-import io.thevita.data.api.sleep.model.SleepStage;
+import com.colamooon.data.api.common.model.ActiveType;
+import com.colamooon.data.api.sleep.model.SleepStage;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

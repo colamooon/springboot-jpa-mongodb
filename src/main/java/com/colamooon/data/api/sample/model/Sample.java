@@ -1,7 +1,7 @@
 package com.colamooon.data.api.sample.model;
 
-import io.thevita.data.api.common.model.BaseEntity;
-import io.thevita.data.api.sample.constant.SampleStatus;
+import com.colamooon.data.api.common.model.BaseEntity;
+import com.colamooon.data.api.sample.constant.SampleStatus;
 import lombok.Builder;
 import lombok.Data;
 import lombok.EqualsAndHashCode;

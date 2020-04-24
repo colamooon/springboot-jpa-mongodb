@@ -1,6 +1,6 @@
 package com.colamooon.data.api.sleep.model;
 
-import io.thevita.data.api.common.model.BaseEntity;
+import com.colamooon.data.api.common.model.BaseEntity;
 import lombok.Builder;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
